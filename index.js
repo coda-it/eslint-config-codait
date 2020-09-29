@@ -24,8 +24,9 @@ module.exports = {
   },
   "rules": {
     "no-underscore-dangle": "off",
-      "no-param-reassign": "off",
-      "import/no-extraneous-dependencies": "off"
+    "no-param-reassign": "off",
+    "import/no-extraneous-dependencies": "off",
+    "react/static-property-placement": ["static public field"]
   },
   "settings": {
     "import/resolver": {
