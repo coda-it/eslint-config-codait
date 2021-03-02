@@ -26,7 +26,7 @@ module.exports = {
     "no-underscore-dangle": "off",
     "no-param-reassign": "off",
     "import/no-extraneous-dependencies": "off",
-    "react/static-property-placement": ["static public field"]
+    "react/static-property-placement": "off"
   },
   "settings": {
     "import/resolver": {
