@@ -11,7 +11,7 @@
     "url": "git+https://github.com/coda-it/eslint-config-codait.git"
   },
   "devDependencies": {
-    "eslint": "^7.21.0",
+    "eslint": "^8.56.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-cypress": "^2.11.1",
